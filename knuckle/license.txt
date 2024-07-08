@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animations_knuckles_-_sra_model
+* source:	https://sketchfab.com/3d-models/animations-knuckles---sra-model-64d5a6c1f9b4404cb2b4911432826b06
+* author:	DJ the hellhound (https://sketchfab.com/lonnatheHellhound)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animations_knuckles_-_sra_model" (https://sketchfab.com/3d-models/animations-knuckles---sra-model-64d5a6c1f9b4404cb2b4911432826b06) by DJ the hellhound (https://sketchfab.com/lonnatheHellhound) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
